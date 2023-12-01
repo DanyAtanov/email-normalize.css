@@ -1,4 +1,4 @@
-/* Email-normalize by DanyAtanov v.1.0.0 */
+/* https://github.com/DanyAtanov/email-normalize.css */
 
 table {
   font-family: Arial, Helvetica, sans-serif;
@@ -8,7 +8,6 @@ table {
   width: 100%;
   margin: 0;
   padding: 0;
-  border-collapse: collapse;
   mso-table-lspace: 0;
   mso-table-rspace: 0;
 }
@@ -25,4 +24,5 @@ a {
 img {
   display: block;
   text-align: center;
+  text-align: -webkit-center;
 }
